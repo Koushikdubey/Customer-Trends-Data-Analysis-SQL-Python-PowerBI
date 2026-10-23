@@ -1,0 +1,21 @@
+# Power BI Dashboard
+
+This folder contains the Power BI dashboard developed for the Customer Shopping Trends Analysis project.
+
+## Dashboard Objectives
+
+- Visualise customer shopping behaviour and purchasing patterns.
+- Analyse relevant customer and product metrics.
+- Present business insights through interactive charts and visualisations.
+- Support data-driven decision-making using retail data.
+
+## Files
+
+- **Power BI Dashboard (.pbix):** The interactive dashboard file.
+- **Dashboard Preview:** Screenshots of the dashboard, where available.
+
+## Tools Used
+
+Microsoft Power BI, Power Query, and DAX, where applicable.
+
+The dashboard and its findings should be reviewed alongside the SQL queries, Python analysis, and supporting project report.
