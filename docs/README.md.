@@ -1,0 +1,20 @@
+# Project Documentation
+
+This folder contains supporting documentation for the Customer Shopping Trends Analysis project.
+
+## Project Report
+
+The detailed project report explains the business objectives, dataset overview, data preparation, analytical methodology, key findings, and business recommendations developed using SQL, Python, and Power BI.
+
+## Project Components
+
+- **Python:** Data cleaning, exploratory data analysis, and visualisation.
+- **SQL:** Data querying and business analysis.
+- **Power BI:** Interactive dashboard and visual reporting.
+- **Project Report:** Detailed documentation of the analytical workflow and findings.
+
+## Purpose
+
+This documentation helps recruiters and reviewers understand the project objectives, analytical approach, technical skills demonstrated, and business relevance.
+
+For the source code and dashboard, refer to the relevant folders in the main repository.
